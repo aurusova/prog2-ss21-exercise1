@@ -11,6 +11,8 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+// Repository: https://github.com/aurusova/prog2-ss21-exercise1
+
 class Puzzle1Test {
 
     private Puzzle1 puzzle1;
